@@ -32,4 +32,4 @@ Below are a sample of 3 queries related to Health and Misinformation from Ghana 
 
 # Publications
 
-For more information on Amplify Initiative, please refer to the [paper]([https://arxiv.org/abs/2504.14105]) and [blog post](https://goo.gle/3GLeRMI).
+For more information on Amplify Initiative, please refer to the [paper](https://arxiv.org/abs/2504.14105) and [blog post](https://goo.gle/3GLeRMI).
